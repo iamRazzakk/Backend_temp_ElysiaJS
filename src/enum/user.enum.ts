@@ -1,0 +1,5 @@
+export enum USER_ENUM {
+  SUPER_ADMIN = 'SUPER_ADMIN',
+  USER = 'USER',
+  PROVIDER = 'PROVIDER',
+}
